@@ -1,2 +1,5 @@
 Hello everyone
 This is step to edit file
+----------------------------------
+Welcome to LNG202 Reading for science and technology
+Hope you enjoy this class
